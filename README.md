@@ -22,8 +22,8 @@ Deployed Website: https://afshankhan11.github.io/studentAidApp/
     [AfshanKhan11] 
   
   - **Mohammad Zaid Ansari**
-    []
+    [zaid-stark]
   
   - **Farhan Faizi**
-    []
+    [Faizi-001]
     
