@@ -2,6 +2,7 @@
 
 It is an organizer app that consists of few modules such as note taking, to-do list, event updating, and a discord chat server for student of the same community to interact.
 
+
 ## Deployment
 
 Deployed Website: https://afshankhan11.github.io/studentAidApp/
